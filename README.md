@@ -37,7 +37,9 @@ Better positioning of divs inside each other which was a problem for me.
 ### Continued development
 
 -Working on better positioning of elements.
+
 -Applying the transform and transition property on more projects.
+
 -Getting used to mroe JavaScript in general.
 
 ## Author
